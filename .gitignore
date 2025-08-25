@@ -1,7 +1,11 @@
-# Ignore unneeded files
-.DS_Store
-__pycache__/
-*.pyc
-.idea/
-*.iml
-pythonProject/
+# Ignore everything by default
+*
+
+# Keep only these files
+!.gitignore
+!assignment_1/
+!assignment_1/main.py
+!assignment_1/lena.png
+!assignment_1/solutions/
+!assignment_1/solutions/camera_outputs.txt
+!assignment_1/solutions/camera_output_screenshot.png
