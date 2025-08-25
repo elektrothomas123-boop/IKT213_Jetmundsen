@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)"
+    ],
+    "additionalDirectories": [
+      "/Users/thomasjet/Documents/IKT213_etternavn/assignment_1"
+    ]
+  }
+}
